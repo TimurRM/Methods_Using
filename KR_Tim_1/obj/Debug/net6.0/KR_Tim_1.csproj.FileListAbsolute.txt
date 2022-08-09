@@ -1,0 +1,15 @@
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\bin\Debug\net6.0\KR_Tim_1.exe
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\bin\Debug\net6.0\KR_Tim_1.deps.json
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\bin\Debug\net6.0\KR_Tim_1.runtimeconfig.json
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\bin\Debug\net6.0\KR_Tim_1.dll
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\bin\Debug\net6.0\KR_Tim_1.pdb
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\KR_Tim_1.csproj.AssemblyReference.cache
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\KR_Tim_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\KR_Tim_1.AssemblyInfoInputs.cache
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\KR_Tim_1.AssemblyInfo.cs
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\KR_Tim_1.csproj.CoreCompileInputs.cache
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\KR_Tim_1.dll
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\refint\KR_Tim_1.dll
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\KR_Tim_1.pdb
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\KR_Tim_1.genruntimeconfig.cache
+D:\Users\timur\Desktop\ControlTest22\KR_Tim_1\obj\Debug\net6.0\ref\KR_Tim_1.dll

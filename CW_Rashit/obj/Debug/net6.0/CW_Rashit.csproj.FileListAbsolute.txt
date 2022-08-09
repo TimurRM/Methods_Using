@@ -1,0 +1,15 @@
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\bin\Debug\net6.0\CW_Rashit.exe
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\bin\Debug\net6.0\CW_Rashit.deps.json
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\bin\Debug\net6.0\CW_Rashit.runtimeconfig.json
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\bin\Debug\net6.0\CW_Rashit.dll
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\bin\Debug\net6.0\CW_Rashit.pdb
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\CW_Rashit.csproj.AssemblyReference.cache
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\CW_Rashit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\CW_Rashit.AssemblyInfoInputs.cache
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\CW_Rashit.AssemblyInfo.cs
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\CW_Rashit.csproj.CoreCompileInputs.cache
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\CW_Rashit.dll
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\refint\CW_Rashit.dll
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\CW_Rashit.pdb
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\CW_Rashit.genruntimeconfig.cache
+D:\Users\timur\Desktop\ControlTest22\CW_Rashit\obj\Debug\net6.0\ref\CW_Rashit.dll
