@@ -1,0 +1,15 @@
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\bin\Debug\net6.0\RashitsSolution.exe
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\bin\Debug\net6.0\RashitsSolution.deps.json
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\bin\Debug\net6.0\RashitsSolution.runtimeconfig.json
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\bin\Debug\net6.0\RashitsSolution.dll
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\bin\Debug\net6.0\RashitsSolution.pdb
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\RashitsSolution.csproj.AssemblyReference.cache
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\RashitsSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\RashitsSolution.AssemblyInfoInputs.cache
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\RashitsSolution.AssemblyInfo.cs
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\RashitsSolution.csproj.CoreCompileInputs.cache
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\RashitsSolution.dll
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\refint\RashitsSolution.dll
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\RashitsSolution.pdb
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\RashitsSolution.genruntimeconfig.cache
+D:\Users\timur\Desktop\ControlTest22\RashitsSolution\obj\Debug\net6.0\ref\RashitsSolution.dll

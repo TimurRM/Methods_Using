@@ -16,8 +16,8 @@ void ShowArray(string[] array) // метод вывода массива в ко
             Console.Write(array[i] + "', '");   
         else
             Console.Write(array[i] + "']");  
-    //if (array.Length==1)
-        //Console.Write("]");  
+        if (array.Length==1)
+         Console.Write("]");  
 }
 int SortArray(string[] array) // метод для поиска построк с длиной менее n элементов
 {
